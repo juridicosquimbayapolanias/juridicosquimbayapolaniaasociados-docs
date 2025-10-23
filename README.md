@@ -3,7 +3,7 @@
 <!-- LOGO -->
 <br />
 <div align="center">
-  <img src="logotipos/white-complete-logo.svg" alt="Jurídicos Quimbaya y Polanias Asociados Logo" width="350px" />
+  <img src="https://github.com/juridicosquimbayapolanias/juridicosquimbayapolaniaasociados-docs/blob/main/Docs/Logo/Jur%C3%ADdicos%20Quimbaya%20y%20Polanias%20Asociados/Logo%20Jur%C3%ADdicos%20Quimbaya%20y%20Polanias%20Asociados.png?raw=true" alt="Jurídicos Quimbaya y Polanias Asociados Logo" width="350px" />
   </br>
   </br>
   <p align="center">
